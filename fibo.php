@@ -77,7 +77,7 @@ echo "<br>";
 <?php
 $n=6;
 for ($i = $n; $i > 0; $i--){
-    for($j = 0; $j < $i; $j++ )
+    for($j = 0; $j < $s; $j++ )
     {
     echo "* ";
     }
